@@ -15,6 +15,11 @@ const data =
       fisrtName: "Davud",
       lastName: "Baba",
       rollNumber: "21C51A0540"
+    },
+    {
+      fisrtName: "Aman",
+      lastName: "Shaik",
+      rollNumber: "21C51A0539"
     }
   ]
 
